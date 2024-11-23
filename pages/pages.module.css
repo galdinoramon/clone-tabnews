@@ -1,5 +1,11 @@
+
+.header {
+    display: flex;
+    flex-direction: column;
+    background-color: aqua;
+    padding: 20px;
+}
+
 .title {
-    padding: 50px;
     color: red;
-    background-color: blue;
 }
